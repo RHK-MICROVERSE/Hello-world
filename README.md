@@ -67,21 +67,21 @@ Not applicable for the project
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">Not applicable</a></li>
+    <li>Not applicable</li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Not applicable</a></li>
+    <li>Not applicable</li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">Not applicable</a></li>
+    <li>Not applicable</li>
   </ul>
 </details>
 
