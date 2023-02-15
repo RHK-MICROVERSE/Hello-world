@@ -211,7 +211,7 @@ I would like to thank Agape Nduwamungu.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/RHK-MICROVERSE/Hello-world/blob/add-license-1/LICENSE.md) licensed.
+This project is [MIT](https://github.com/RHK-MICROVERSE/Hello-world/blob/htmlcss-branch/.LICENSEE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
