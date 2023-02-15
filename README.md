@@ -49,6 +49,7 @@ This is a simple project done for Microverse. Through this project I have learne
 👤 **Rassel Hassan Kadir**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/rhk_trading)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
